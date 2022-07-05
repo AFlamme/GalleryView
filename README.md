@@ -15,5 +15,4 @@ Grid Layout вёрстка;
 
 
 ### Ссылки
-* [Автогалерея](https://AFlamme.github.io/GalleryView/index.html);
-* [Ссылка на профиль](https://github.com/AFlamme)
+* [Автогалерея](https://AFlamme.github.io/GalleryView/index.html
